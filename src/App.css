@@ -1,0 +1,27 @@
+.flex-container {
+  display: flex;
+  flex-direction: column;
+  /*Align-items: stretch;*/
+  background-color: #ffffff;
+  height: 100vh;
+  min-height: 100vh;
+}
+
+.Content{
+  flex: 1 0 auto;
+}
+
+.intro{
+  display: flex;
+  background-color: #ffffff;
+  justify-content: space-around;
+  /*height: 60vh;*/
+  flex-wrap: wrap;
+}
+
+.tech{
+  display: flex;
+  background-color: #ffffff;
+  justify-content: space-around;
+  height: 60vh;
+}
