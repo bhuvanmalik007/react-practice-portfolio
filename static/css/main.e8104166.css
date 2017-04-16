@@ -1,0 +1,2 @@
+.flex-container{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;background-color:#fff;height:100vh;min-height:100vh}.Content{-webkit-box-flex:1;-ms-flex:1 0 auto;flex:1 0 auto}.intro{-ms-flex-wrap:wrap;flex-wrap:wrap}.intro,.tech{display:-webkit-box;display:-ms-flexbox;display:flex;background-color:#fff;-ms-flex-pack:distribute;justify-content:space-around}.tech{height:60vh}body{margin:0;padding:0;font-family:sans-serif}
+/*# sourceMappingURL=main.e8104166.css.map*/
